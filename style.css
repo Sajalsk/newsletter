@@ -46,9 +46,6 @@ body, ul {
   transition: 0;
 }
 
-.footerNav {
-  /* margin: 10px 0; */
-}
 .footerNav a{
   display: flex;
   justify-content: center;
