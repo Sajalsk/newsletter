@@ -1,7 +1,9 @@
 .container {
+  padding: 20px;
     display: flex;
     justify-content: space-between;
-    max-height: 75px
+   
+    /* max-height: 75px */
 }
 
 body, ul {
